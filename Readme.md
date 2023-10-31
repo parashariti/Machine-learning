@@ -13,7 +13,7 @@ I want to learn Machine learning from scratch.
 
 ### Install python
 
-The code are done on python3.11
+I am using Python3.11
 
 ### Create virtual Environment
 
